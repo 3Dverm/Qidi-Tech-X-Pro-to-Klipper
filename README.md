@@ -6,7 +6,7 @@
 Change these Qidi Tech X-Pro printer from stock to klipper 
 </p>
 
-<p align="center"><img width="100" height="100" alt="BuyMeACoffee" src="https://github.com/user-attachments/assets/4310f154-a79b-4e25-85e0-ac954281379d" /></p>
+<p align="center"><img width="100" height="100" alt="BuyMeACoffee" src="[buymeacoffee.com/3dverm](https://buymeacoffee.com/3dverm)" /></p>
 
 
 
